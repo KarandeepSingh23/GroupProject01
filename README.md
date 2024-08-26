@@ -1,4 +1,4 @@
-# GroupProject01
+# SQLProject01
 # MIST4610-Project-1
 # Team name:
 21479 Group 6
